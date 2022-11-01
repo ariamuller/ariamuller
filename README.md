@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, me chamo Ariane e faço o curso Jovem Programador no SENAC - Jaraguá do Sul 👋
 
 <!--
 **ariamuller/ariamuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Snake animation](https://github.com/guifreiberger/guifreiberger/blob/output/github-contribution-grid-snake.svg)
