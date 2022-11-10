@@ -1,4 +1,5 @@
 ### Olá, me chamo Ariane e faço o curso Jovem Programador no SENAC - Jaraguá do Sul 👋
+JavaScript |HTML5 | CSS | Bootstrap | JQuery | PHP | React |
 
 <!--
 **ariamuller/ariamuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
