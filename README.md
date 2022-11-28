@@ -1,5 +1,5 @@
-### Olá, me chamo Ariane e faço o curso Jovem Programador no SENAC - Jaraguá do Sul 👋
-### Tecnologias: JavaScript | HTML5 | CSS | Bootstrap | JQuery | PHP |
+### Desenvolvedora de Sistemas Junior na Clinicorp Solutions  👋
+### Tecnologias: JavaScript | HTML5 | CSS | Bootstrap | JQuery | ReactJS |
 
 
 <!--
