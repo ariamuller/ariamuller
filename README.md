@@ -1,4 +1,4 @@
-### Desenvolvedora de Sistemas Junior na Clinicorp Solutions  👋
+### Desenvolvedora Front-End Junior na Clinicorp  👋
 ### Tecnologias: JavaScript | HTML5 | CSS  | ReactJS |
 
 
