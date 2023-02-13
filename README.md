@@ -1,5 +1,5 @@
 ### Desenvolvedora de Sistemas Junior na Clinicorp Solutions  👋
-### Tecnologias: JavaScript | HTML5 | CSS | Bootstrap | JQuery | ReactJS |
+### Tecnologias: JavaScript | HTML5 | CSS  | ReactJS |
 
 
 <!--
