@@ -1,5 +1,5 @@
-### Desenvolvedora Front-End Junior na Clinicorp  👋
-### Tecnologias: JavaScript | HTML5 | CSS  | ReactJS |
+### Desenvolvedora Front-End 👋
+### Tecnologias: JavaScript | ReactJS |
 
 
 <!--
